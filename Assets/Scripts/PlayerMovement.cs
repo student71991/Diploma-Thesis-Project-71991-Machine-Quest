@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    float horizontalInput;
-    float moveSpeed = 5f;
-    bool isFacingRight = false;
-    float jumpPower = 5f;
-    bool isJumping = false;
+    [SerializeField] float horizontalInput;
+    [SerializeField] float moveSpeed = 5f;
+    [SerializeField] bool isFacingRight = false;
+    [SerializeField] float jumpPower = 5f;
+    [SerializeField] bool isJumping = false;
 
     private Animator anim;
 

@@ -42492,6 +42492,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 779722b5dfa8f71469ad60d2a17bf3e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horizontalInput: 0
+  moveSpeed: 6
+  isFacingRight: 0
+  jumpPower: 6
+  isJumping: 0
 --- !u!212 &1976012163
 SpriteRenderer:
   m_ObjectHideFlags: 0
