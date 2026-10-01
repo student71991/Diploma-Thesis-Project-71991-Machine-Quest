@@ -40,9 +40,6 @@ public class PlayerMovement : MonoBehaviour
         }
 
 
-
-
-
         if (horizontalInput>0f)
         {
             anim.SetBool("Running", true);
