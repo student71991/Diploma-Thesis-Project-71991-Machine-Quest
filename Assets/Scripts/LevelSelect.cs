@@ -20,6 +20,11 @@ public class LevelSelect : MonoBehaviour
         SceneManager.LoadScene("Level3");
     }
 
+    public void SecretLevel()
+    {
+        SceneManager.LoadScene("SecretLevel1");
+    }
+
     public void GoBackToMainMenu()
     {
         SceneManager.LoadScene("MainMenu");
