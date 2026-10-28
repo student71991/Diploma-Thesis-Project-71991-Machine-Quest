@@ -1960,7 +1960,7 @@ GameObject:
   m_Component:
   - component: {fileID: 78880767}
   m_Layer: 0
-  m_Name: Main Platform Waypoint #1
+  m_Name: Moving Platform #2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6935,7 +6935,7 @@ GameObject:
   m_Component:
   - component: {fileID: 339278212}
   m_Layer: 0
-  m_Name: Moving Platforms
+  m_Name: Moving Platform #1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17753,7 +17753,7 @@ GameObject:
   m_Component:
   - component: {fileID: 951382787}
   m_Layer: 0
-  m_Name: Main Platform Waypoint #2
+  m_Name: Moving Platform #3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
