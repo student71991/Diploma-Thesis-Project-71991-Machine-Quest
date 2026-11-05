@@ -18,11 +18,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Level2.unity
     guid: ca6c296f5151919488d249f2c6cad99e
   - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 2d8c54907e6e8e946b23ff16b9b94a09
+  - enabled: 1
     path: Assets/Scenes/SecretLevel1.unity
     guid: 650879c45261e8749a4ed40a9b472aae
-  - enabled: 1
-    path: Assets/Scenes/SecretLevel2.unity
-    guid: 980ce1e86fda5e248b11c5e27c10a4c1
   - enabled: 1
     path: Assets/Scenes/ThankYouMenu.unity
     guid: 09950cfa60db3b143925768b9204c84d
