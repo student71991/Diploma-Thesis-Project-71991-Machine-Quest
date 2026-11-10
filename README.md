@@ -26,4 +26,4 @@ You would need Unity, and the version used is Unity 2022.3 LTS. After downloadin
   * Student Number: 71991
 
 ## Repository
-The main contents of the repository is the Unity project. It consists of scripts and assets that are needed for the mechanics to
+The main contents of the repository is the Unity project. It consists of scripts that are used for the mechanics to function properly, and assets, which are used to design the levels.
