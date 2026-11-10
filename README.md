@@ -4,9 +4,10 @@ This is the project made for the thesis to display game balancing.
 
 ## Table of Contents
 * [Project Description](#project-description)
-* [Installation](#installation)
+* [Installation and Dependencies](#installation-and-dependencies)
+* [Version History](#version-history)
+* [Authors](#authors)
 * [Repository](#repository)
-* [Contribution](#contribution)
 
 ---
 
